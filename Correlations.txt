@@ -1,0 +1,26 @@
+Age                        -0.189605
+DailyRate                  -0.061146
+DistanceFromHome            0.081045
+Education                  -0.023423
+EmployeeNumber             -0.008927
+EnvironmentSatisfaction    -0.119587
+HourlyRate                 -0.016063
+JobInvolvement             -0.127011
+JobLevel                   -0.159330
+JobSatisfaction            -0.104576
+MonthlyIncome              -0.153163
+MonthlyRate                 0.036605
+NumCompaniesWorked          0.033524
+PercentSalaryHike          -0.014865
+PerformanceRating           0.013642
+RelationshipSatisfaction   -0.061981
+StockOptionLevel           -0.158070
+TotalWorkingYears          -0.178612
+TrainingTimesLastYear      -0.053534
+WorkLifeBalance            -0.058258
+YearsAtCompany             -0.151588
+YearsInCurrentRole         -0.174518
+YearsSinceLastPromotion    -0.049898
+YearsWithCurrManager       -0.166567
+label                       1.000000
+Name: label, dtype: float64
